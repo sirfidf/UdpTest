@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "UdpTest - Server": {
+      "commandName": "Project",
+      "commandLineArgs": "server"
+    },
+    "UdpTest - Client": {
+      "commandName": "Project",
+      "commandLineArgs": "client"
+    }
+  }
+}
